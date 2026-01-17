@@ -28,7 +28,7 @@
 ---
 
 ## Ekran Görüntüsü 📸
-![Ana Ekran](screenshot.png)
+![Ana Ekran](screenshot.jpg)
 
 ---
 
